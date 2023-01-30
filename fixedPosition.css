@@ -1,0 +1,19 @@
+
+/* fixed */
+/* div{
+    background-color: blue;
+    width:200px;
+    height: 200px;
+    position: fixed;
+    left: 40%;
+} */
+/* sticky */
+div{
+     background-color: blue;
+    width:200px;
+    height: 200px;
+    position: sticky;
+    top: 0px;
+    bottom: 100px;
+
+}

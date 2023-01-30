@@ -1,0 +1,35 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 1.5cm;
+        
+}
+.a0{
+    text-align-last: center;
+    font-size: 01cm;
+}
+#a3{
+    font-size: x-large;
+    text-align: left;
+}
+#a5{
+    background-color: rgb(238, 238, 238);
+}
+#a6{
+    font-size: xx-large;
+}
+#a7{
+    font-size: large;
+}
+#a8{
+    font-size: x-large;
+}
+#a9{
+    color: white;
+    background-color: black;
+}
+#a10{
+    background-color: darkgray;
+}
+
+

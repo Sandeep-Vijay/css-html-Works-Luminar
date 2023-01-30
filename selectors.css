@@ -1,0 +1,30 @@
+h1{
+    color: #000;
+    text-align: center;
+}
+#a1{
+    color: aqua;
+    text-align: right
+}
+.c1{
+    color: blue;
+    text-align:left;
+}
+body{
+    background-color: burlywood;
+}
+#d1{
+    color: brown;
+}
+#d2{
+    color: darkgoldenrod;
+}
+p{
+    color: aliceblue;
+    font-size: xx-large;
+}
+/* tag selectors */
+/* id selector #
+class selector . */
+
+/* id and class differences id only one value class multiple values */

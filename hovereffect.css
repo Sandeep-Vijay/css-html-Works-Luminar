@@ -1,0 +1,14 @@
+button{
+    background-color: blueviolet;
+    border: blueviolet solid;
+    width: 200px;
+    height: 100px;
+    margin-top: 20%;
+    margin-left: 40%;
+    border-radius: 40px;
+}
+button:hover{
+    background-color: white;
+    color: blueviolet;
+    overflow: visible;
+}

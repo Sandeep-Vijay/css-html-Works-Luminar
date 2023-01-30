@@ -1,0 +1,19 @@
+div{
+    background-color: darkslategrey;
+    width: 200px;
+    height: 200px;
+    border: white 8px solid;
+}
+#b1{
+    background-color: darkslategrey;
+    margin-top: 200px;
+
+
+}
+
+#b2{
+    background-color: lightgreen;
+    margin-top: -216px;
+    margin-left: 233px;
+
+}

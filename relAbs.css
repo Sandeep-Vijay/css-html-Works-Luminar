@@ -1,0 +1,37 @@
+div p{
+    color: blue;
+}
+h1,h2{
+    color: blueviolet;
+}
+.row{
+    background-color: rgb(228, 134, 18);
+    height: 700px;
+    position: relative;
+}
+.col{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    box-shadow: 10px 10px 5px rgb(42, 42, 42);
+
+
+}
+.col-1{
+    
+    left: 10px;
+    background-color: aqua;
+}
+.col-2{
+    background-color: blue;
+    left: 250px;
+}
+.col-3{
+    background-color: blueviolet;
+    left: 500px;
+}
+.col-4{
+    background-color: brown;
+    left: 800px;
+}
